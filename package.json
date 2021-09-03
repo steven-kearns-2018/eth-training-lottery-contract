@@ -1,0 +1,19 @@
+{
+  "name": "eth-training-lottery-contract",
+  "version": "1.0.0",
+  "description": "Smart contract for simple lottery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven-kearns-2018/eth-training-lottery-contract.git"
+  },
+  "author": "Steven Kearns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steven-kearns-2018/eth-training-lottery-contract/issues"
+  },
+  "homepage": "https://github.com/steven-kearns-2018/eth-training-lottery-contract#readme"
+}
