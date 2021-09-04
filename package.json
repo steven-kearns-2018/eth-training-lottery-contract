@@ -1,19 +1,18 @@
 {
-  "name": "eth-training-lottery-contract",
+  "name": "sample_lottery",
   "version": "1.0.0",
-  "description": "Smart contract for simple lottery",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/steven-kearns-2018/eth-training-lottery-contract.git"
-  },
-  "author": "Steven Kearns",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/steven-kearns-2018/eth-training-lottery-contract/issues"
-  },
-  "homepage": "https://github.com/steven-kearns-2018/eth-training-lottery-contract#readme"
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.1",
+    "solc": "^0.4.17",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.26"
+  }
 }
